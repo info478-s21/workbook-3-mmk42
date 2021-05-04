@@ -75,4 +75,7 @@ ggplot(data_wide) +
 
 ggsave("charts/change_plot.png")
 
-# My interpretation of this is
+# My interpretation of this is that the change in HALE has a strong almost 1:1 ratio 
+# with the change if life expectancy. THis means that increases in life expectancy are
+# correlated with increases in HALEs as well. So extending peoples length of lives will
+# likely relate to those people getting to live more of thier lives at full health.
